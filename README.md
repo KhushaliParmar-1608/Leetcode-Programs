@@ -15,9 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0007-reverse-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
