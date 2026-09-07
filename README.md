@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/KhushaliParmar-1608/Leetcode-Programs/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
